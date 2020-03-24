@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c415760-b452-4070-9476-b6c4e215be79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4Shw8fMI2uw9XHQPB0s6Qxf84" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../inner-classes-source-code" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MongodbDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.MongodbDemo" />
+      <module name="mongodb-connection-source-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.MongodbDemo" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MongodbDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c415760-b452-4070-9476-b6c4e215be79" name="Default Changelist" comment="" />
+      <created>1584096995404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584096995404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584349113818">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584349113818" />
+    <state width="1253" height="168" key="GridCell.Tab.0.bottom" timestamp="1584443404228">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="168" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584443404228" />
+    <state width="1253" height="168" key="GridCell.Tab.0.center" timestamp="1584443404228">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="168" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584443404228" />
+    <state width="1253" height="168" key="GridCell.Tab.0.left" timestamp="1584443404228">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="168" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584443404228" />
+    <state width="1253" height="168" key="GridCell.Tab.0.right" timestamp="1584443404228">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="168" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584443404228" />
+  </component>
+</project>
